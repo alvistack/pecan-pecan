@@ -1,0 +1,5 @@
+python-pecan source: file-without-copyright-information
+python-pecan source: no-debian-changes
+python-pecan source: source-contains-prebuilt-windows-binary
+python-pecan source: source-is-missing
+python-pecan source: source-package-encodes-python-version
